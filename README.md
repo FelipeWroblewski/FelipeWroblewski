@@ -31,9 +31,9 @@ Busco evoluir constantemente como desenvolvedor, transformando ideias em soluç�
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+### 🚀 Tecnologias & Ferramentas
 
-<div align="center">
+<div align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height="30" alt="javascript logo"  />
   <img width="12" />
