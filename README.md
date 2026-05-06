@@ -1,7 +1,7 @@
 <h1 align="center">Felipe Wroblewski</h1>
 
 <p align="center">
-  Software Engineering Student • Backend Enthusiast • Problem Solver
+  Software Engineering Student • Aspiring Data Analyst • SQL & Python
 </p>
 
 ---
