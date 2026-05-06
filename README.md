@@ -1,5 +1,7 @@
+<h1 align="center">Felipe Wroblewski</h1>
+
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=1&pause=1000&color=76A2F7&center=true&multiline=true&repeat=false&width=435&lines=Felipe+Wroblewski" alt="Felipe Wroblewski" /></a>
+  Software Engineering Student • Backend Enthusiast • Problem Solver
 </p>
 
 ---
