@@ -14,6 +14,7 @@
 💼 Atualmente atuando como analista de dados na Live
 
 Busco evoluir constantemente na área de tecnologia, utilizando dados para gerar insights e construir soluções eficientes e escaláveis.
+
 ---
 
 ## 🚀 Tecnologias & Ferramentas
