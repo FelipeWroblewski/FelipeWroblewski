@@ -43,7 +43,7 @@ Busco evoluir constantemente como desenvolvedor, transformando ideias em soluç�
 
 ---
 
-### Linguagens
+## 🌎 Idiomas
 
 <img src="https://flagcdn.com/w40/br.png" width="20"/> Português Nativo <br>
 <img src="https://flagcdn.com/w40/us.png" width="20"/> Inglês Intermediário
