@@ -17,20 +17,6 @@ Busco evoluir constantemente como desenvolvedor, transformando ideias em soluç�
 
 ---
 
-<p align="center">
-    <a href="https://www.instagram.com/felipg.w/">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-    </a>
-    <a href="mailto:gabrielfelipewroblewski@gmail.com">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-    </a>
-    <a href="https://www.linkedin.com/in/felipe-gabriel-wroblewski-34647a305/">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-    </a>
-</p>
-
----
-
 ### 🚀 Tecnologias & Ferramentas
 
 <div align="left">
@@ -57,12 +43,25 @@ Busco evoluir constantemente como desenvolvedor, transformando ideias em soluç�
 
 ---
 
-
 ### Linguagens
 
 <img src="https://flagcdn.com/w40/br.png" width="20"/> Português Nativo <br>
 <img src="https://flagcdn.com/w40/us.png" width="20"/> Inglês Intermediário
 
 <br clear="both">
+
+---
+
+<p align="center">
+    <a href="https://www.instagram.com/felipg.w/">
+        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    </a>
+    <a href="mailto:gabrielfelipewroblewski@gmail.com">
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    </a>
+    <a href="https://www.linkedin.com/in/felipe-gabriel-wroblewski-34647a305/">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    </a>
+</p>
 
 ###
