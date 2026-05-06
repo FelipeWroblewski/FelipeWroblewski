@@ -2,7 +2,18 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=1&pause=1000&color=76A2F7&center=true&multiline=true&repeat=false&width=435&lines=Felipe+Wroblewski" alt="Felipe Wroblewski" /></a>
 </p>
 
-Estudando Engenharia de Software (2º/8º semestre) na Católica SC, apaixonado por tecnologia, resolução de problemas, crescimento pessoal e por transformar ideias em sistemas reais. Formado pelo SENAI com curso técnico em Desenvolvimento de Sistemas. Atualmente trabalhando com suporte de sistemas na Live.
+---
+
+## 👨‍💻 Sobre mim
+
+🎓 Estudante de Engenharia de Software (2º/8º semestre) na Católica SC  
+🎯 Focado em desenvolvimento de sistemas e resolução de problemas reais  
+📚 Formação técnica pelo SENAI em Desenvolvimento de Sistemas  
+💼 Atualmente atuando com suporte de sistemas na Live  
+
+Busco evoluir constantemente como desenvolvedor, transformando ideias em soluções eficientes e escaláveis.
+
+---
 
 <p align="center">
     <a href="https://www.instagram.com/felipg.w/">
