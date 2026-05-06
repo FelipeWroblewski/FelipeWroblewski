@@ -8,13 +8,12 @@
 
 ## 👨‍💻 Sobre mim
 
-🎓 Estudante de Engenharia de Software (2º/8º semestre) na Católica SC  
+🎓 Estudante de Engenharia de Software (3º/8º semestre) na Católica SC  
 🎯 Focado em desenvolvimento de sistemas e resolução de problemas reais  
 📚 Formação técnica pelo SENAI em Desenvolvimento de Sistemas  
-💼 Atualmente atuando com suporte de sistemas na Live  
+💼 Atualmente atuando como analista de dados na Live
 
-Busco evoluir constantemente como desenvolvedor, transformando ideias em soluções eficientes e escaláveis.
-
+Busco evoluir constantemente na área de tecnologia, utilizando dados para gerar insights e construir soluções eficientes e escaláveis.
 ---
 
 ## 🚀 Tecnologias & Ferramentas
