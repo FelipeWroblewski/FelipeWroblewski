@@ -48,8 +48,6 @@ Busco evoluir constantemente como desenvolvedor, transformando ideias em soluç�
 <img src="https://flagcdn.com/w40/br.png" width="20"/> Português Nativo <br>
 <img src="https://flagcdn.com/w40/us.png" width="20"/> Inglês Intermediário
 
-<br clear="both">
-
 ---
 
 <p align="center">
