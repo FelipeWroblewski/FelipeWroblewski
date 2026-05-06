@@ -1,7 +1,7 @@
 <h1 align="center">Felipe Wroblewski</h1>
 
 <p align="center">
-  Software Engineering Student • Aspiring Data Analyst • SQL & Python
+  Estudante de Engenharia de Software • Focado em Análise de Dados • SQL e Python
 </p>
 
 ---
